@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingSystem", "Test\TradingSystem.csproj", "{B155A685-F7F6-46B5-9559-EB304E32E6C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingSystem.Tests", "TradingSystem.Tests\TradingSystem.Tests.csproj", "{7A4DC814-2FFE-4233-8EB2-A610D91FAFEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B155A685-F7F6-46B5-9559-EB304E32E6C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B155A685-F7F6-46B5-9559-EB304E32E6C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B155A685-F7F6-46B5-9559-EB304E32E6C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B155A685-F7F6-46B5-9559-EB304E32E6C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4DC814-2FFE-4233-8EB2-A610D91FAFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4DC814-2FFE-4233-8EB2-A610D91FAFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4DC814-2FFE-4233-8EB2-A610D91FAFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4DC814-2FFE-4233-8EB2-A610D91FAFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B021B65-A64C-420B-9F47-519EDAD124F4}
+	EndGlobalSection
+EndGlobal
