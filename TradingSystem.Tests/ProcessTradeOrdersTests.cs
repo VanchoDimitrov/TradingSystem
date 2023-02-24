@@ -1,13 +1,9 @@
-using Xunit;
 using Moq;
-using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-using System.Security.Cryptography;
+using Xunit;
 
 namespace TradingSystem.Tests
 {
-    public class UnitTest1
+    public class ProcessTradeOrdersTests
     {
         [Fact]
         public async Task StartApp_Should_Return_List_Of_Not_Equal_Trade_Identifiers()

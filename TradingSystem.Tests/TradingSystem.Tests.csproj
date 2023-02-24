@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Test\TradingSystem.csproj" />
+    <ProjectReference Include="..\TradingSystem\TradingSystem.csproj" />
   </ItemGroup>
 
 </Project>
