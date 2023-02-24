@@ -24,7 +24,6 @@ namespace TradingSystem.Tests
             var result = await TradingSystem.StartApp(newOrder);
 
             // Assert
-
             foreach (var exp in expectedIdentifiers)
             {
                 foreach (var res in result)
